@@ -1,0 +1,3 @@
+# lyricopy
+
+## JUST LET US SHARE THE LYRICS IN ONE COPY

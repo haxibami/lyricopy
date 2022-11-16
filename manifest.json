@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "lyricopy",
+  "version": "1.0",
+  "description": "let users just copy the search result of lyrics",
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*/*"
+      ],
+      "include_globs": [
+        "https://www.google.*/search*"
+      ],
+      "js": [
+        "main.js"
+      ]
+    }
+  ]
+}
