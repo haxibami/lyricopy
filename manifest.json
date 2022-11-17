@@ -11,8 +11,8 @@
       "include_globs": [
         "https://www.google.*/search*"
       ],
-      "js": [
-        "main.js"
+      "css": [
+        "style.css"
       ]
     }
   ]
